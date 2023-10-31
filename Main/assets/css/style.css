@@ -12,3 +12,12 @@
 /* Shared custom styles for headers */
 
 /* style project rows based on status (late, due today) */
+
+.project-table-header {
+  background-color: var(--red);
+  color: white;
+}
+
+.project-table-body {
+  background-color: var(--lightred);
+}
